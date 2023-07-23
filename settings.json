@@ -1,0 +1,23 @@
+{
+    "workbench.colorTheme": "GitHub Dark Default",
+    "[python]": {
+      "editor.formatOnType": true
+    },
+    "cmake.configureOnOpen": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.editor.enablePreview": false,
+    "editor.formatOnSave": true,
+    "html.format.contentUnformatted": "pre,code,textarea",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.dontShowNewVersionMessage": true,
+    "explorer.confirmDelete": false,
+    "files.autoSave": "afterDelay",
+    "editor.accessibilitySupport": "off",
+    "code-runner.runInTerminal": true,
+    "window.zoomLevel": 1
+  }
+  
